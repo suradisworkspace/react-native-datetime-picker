@@ -1,5 +1,5 @@
 import { StyleSheet, View } from 'react-native';
-import { DatetimePickerView } from 'react-native-datetime-picker';
+import DatetimePickerView from 'react-native-datetime-picker';
 
 export default function App() {
   return (

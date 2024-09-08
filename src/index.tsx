@@ -1,2 +1,3 @@
-export { default as DatetimePickerView } from './DatetimePickerViewNativeComponent';
-export * from './DatetimePickerViewNativeComponent';
+import RNDatetimePicker from './RNDatetimePicker.ios';
+
+export default RNDatetimePicker;
